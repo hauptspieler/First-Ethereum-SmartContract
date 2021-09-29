@@ -1,4 +1,4 @@
-{
+
 	"compiler": {
 		"version": "0.6.7+commit.b8d736ae"
 	},
@@ -102,7 +102,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/simpleStorage.sol": "SimpleStorage"
+			"contracts/SimpleStorage.sol": "SimpleStorage"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -116,7 +116,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/simpleStorage.sol": {
+		"contracts/SimpleStorage.sol": {
 			"keccak256": "0xa63c955e988fee68c2c185317c8417c473357a4055d44d3dabd4c166624d7751",
 			"urls": [
 				"bzz-raw://1ca13f2be93d36ff3d54dcff92714ba3bb7896de3b2398d1e94331ff8c9aaf08",

@@ -11,6 +11,25 @@
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "simpleStorageArray",
+				"outputs": [
+					{
+						"internalType": "contract SimpleStorage",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -44,10 +63,10 @@
 			]
 		},
 		"contracts/StorageFactory.sol": {
-			"keccak256": "0xf85c8320202cbea9c133c50a54b618d979f3ee5744ee88a4d68703d89286c51c",
+			"keccak256": "0xbaf19b312b74e175e3db38598afdae2a265279b2092248e500dec805e5eb74a4",
 			"urls": [
-				"bzz-raw://9fa76cf67de48008c8838b8847e79b6ea3b280f657d2ca150a279a52016ac533",
-				"dweb:/ipfs/QmXD9KJbycJPtaD7mwyYePEZt3aXwoM1SJb4iSEyLSyrRi"
+				"bzz-raw://e30ac31f29780635b05f8e95e23e4ea00cac048010a68745605b4ca0b3bf731a",
+				"dweb:/ipfs/QmUoveBUiEaUWHXNCBwyxyYa1V9qBWo3socR9EYH7Kcju4"
 			]
 		}
 	},
