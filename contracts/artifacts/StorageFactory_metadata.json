@@ -1,0 +1,55 @@
+{
+	"compiler": {
+		"version": "0.6.7+commit.b8d736ae"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "createSimpleStorageContract",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/StorageFactory.sol": "StorageFactory"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SimpleStorage.sol": {
+			"keccak256": "0xa63c955e988fee68c2c185317c8417c473357a4055d44d3dabd4c166624d7751",
+			"urls": [
+				"bzz-raw://1ca13f2be93d36ff3d54dcff92714ba3bb7896de3b2398d1e94331ff8c9aaf08",
+				"dweb:/ipfs/QmQiCcaVMzEFVDjbiHX9oG4yUtRpYnArYAGJKs5C7pirFz"
+			]
+		},
+		"contracts/StorageFactory.sol": {
+			"keccak256": "0xf85c8320202cbea9c133c50a54b618d979f3ee5744ee88a4d68703d89286c51c",
+			"urls": [
+				"bzz-raw://9fa76cf67de48008c8838b8847e79b6ea3b280f657d2ca150a279a52016ac533",
+				"dweb:/ipfs/QmXD9KJbycJPtaD7mwyYePEZt3aXwoM1SJb4iSEyLSyrRi"
+			]
+		}
+	},
+	"version": 1
+}
